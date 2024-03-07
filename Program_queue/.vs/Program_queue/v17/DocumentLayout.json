@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Cstm\\PSTU_works\\Inf\\Labs\\Lab_11\\Program_queue\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{603A3D9A-1EAB-432A-B092-0D578F215F26}|Program_queue\\Program_queue.vcxproj|C:\\Cstm\\PSTU_works\\Inf\\Labs\\Lab_11\\Program_queue\\Program_queue\\Program_queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{603A3D9A-1EAB-432A-B092-0D578F215F26}|Program_queue\\Program_queue.vcxproj|solutionrelative:Program_queue\\Program_queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 56,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program_queue.cpp",
+              "DocumentMoniker": "C:\\Cstm\\PSTU_works\\Inf\\Labs\\Lab_11\\Program_queue\\Program_queue\\Program_queue.cpp",
+              "RelativeDocumentMoniker": "Program_queue\\Program_queue.cpp",
+              "ToolTip": "C:\\Cstm\\PSTU_works\\Inf\\Labs\\Lab_11\\Program_queue\\Program_queue\\Program_queue.cpp",
+              "RelativeToolTip": "Program_queue\\Program_queue.cpp",
+              "ViewState": "AQIAAJkAAAAAAAAAAAAAAKgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-04T06:53:23.947Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
